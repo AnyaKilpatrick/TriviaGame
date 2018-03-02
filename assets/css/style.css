@@ -1,9 +1,8 @@
 body {
-    background-image: url("../images/back.jpg");
+    background-image: url("../images/back.JPG");
     background-attachment: fixed;
     background-size: cover;
-    background-repeat: no-repeat;
-    
+    background-repeat: no-repeat;    
 }
 
 h1, #timer {
