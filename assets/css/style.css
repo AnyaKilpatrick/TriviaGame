@@ -23,3 +23,27 @@ li {
     font-family: 'Berkshire Swash', cursive;
     font-size: 32px;
 }
+
+@media screen and (max-width: 992px) {
+    #mainContent {
+        background: rgba(255, 255, 255, 0.4);
+        height: 900px;
+    }
+    #start {
+        background-color: rgb(37, 165, 197);
+        color: white;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    h1, #timer {
+        font-size: 34px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+    #myImage {
+        height: 200px;
+        width: auto;
+    }
+}
