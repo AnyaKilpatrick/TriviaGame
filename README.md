@@ -1,8 +1,8 @@
 Trivia Game
 ===========
 
-Disney Trivia
-This a trivia game that shows only one question until the player answers it or their time runs out.
+This is a Disney related trivia game that shows only one question until the player answers it or their time runs out.
+
 If the player selects the correct answer, a congratulation screen will be shown. After a few seconds, the next question is displayed - without any user input.
 
 The scenario is similar for wrong answers and time-outs.
